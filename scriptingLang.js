@@ -19,7 +19,7 @@
 // export let a = 10;
 // export let arr = [1, 2, 3, 4];
 
-//I will mix between export and date, time
+//I will mix between export fsdand date, time
 
 let now = new Date();
 let diff = now - new Date('2001-10-04');
