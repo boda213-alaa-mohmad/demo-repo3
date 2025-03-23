@@ -1,26 +1,4 @@
-// https://api.github.com/users/elzerowebschool/repos
 
-// *******************************************************
-//When You finish date and time make a clock with html, css, and js
-//*******************************************************
-// let x;
-// export const PI = 3.14;
-
-// export function calcArea(radius) {
-//     return `The Area is: ${radius ** 2}`;
-// }
-
-// export function calcDem(radius) {
-//     return `The Demilter is: ${PI * radius * 2}`;
-// }
-
-// export default function add(a, b) {
-//     return `The Sum is: ${a + b}`;
-// }
-
-// export function multiply(a, b) {
-//     return `The Sum is: ${a * b}`;
-// }
 
 
 // export function* generateNumbers() {
